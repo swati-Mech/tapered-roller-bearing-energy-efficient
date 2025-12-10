@@ -1,8 +1,7 @@
 # Optimized Tapered Roller Bearing Design for Energy Efficiency  
 [![CAD](https://img.shields.io/badge/CAD-SolidWorks-blue)](https://github.com/swati-Mech/tapered-roller-bearing-energy-efficient/tree/main/CAD)
 [[![DRAWING 2D](https://img.shields.io/badge/DRAWING_2d-red)](https://github.com/swati-Mech/tapered-roller-bearing-energy-efficient/tree/main/Drawings)]
-![Domain](https://img.shields.io/badge/Domain-Mechanical%20Engineering-green)
-![Status](https://img.shields.io/badge/Project-Academic-success)
+[![Domain](https://img.shields.io/badge/Domain-Mechanical%20Engineering-green)](https://github.com/swati-Mech/tapered-roller-bearing-energy-efficient/blob/main/Docs/Optimized_Bearing_Design_Detailed_Project_Report.pdf)
 
 
 ---
