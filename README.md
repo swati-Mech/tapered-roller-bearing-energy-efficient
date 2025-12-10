@@ -103,13 +103,3 @@ Better load distribution + lower friction + enhanced thermal stability.
 
 ---
 
-## 8️⃣ Suggested Repository Structure
-```bash
-Energy-Efficient-Tapered-Bearing/
-│
-├── README.md
-├── REPORT.md
-├── CAD/
-├── FEA/
-├── Images/
-└── Docs/
